@@ -1,6 +1,6 @@
 = multicache4j-0.1.0 =
 
-feature list:
+2011-01-15 feature list:
   * 方便集成各种remote cache
     ** memcached  (支持组件spymemcached)
     ** memcachedb (支持组件spymemcached)
@@ -15,5 +15,5 @@ feature list:
 
 = multicache4j-0.1.0 =
 
-feature list:
+2011-01-18 feature list:
   * 增加del()接口
